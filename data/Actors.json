@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"h_faces1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ナーリャ","nickname":"　　　　初級魔女","note":"<deadCharacter:!Flame,5>","profile":""},
+{"id":2,"battlerName":"","characterIndex":6,"characterName":"","classId":2,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"underb1","traits":[],"initialLevel":1,"maxLevel":99,"name":"おま○こω","nickname":"　　丸出し（通常）","note":"<nick0:　　丸出し（通常）>\n<nick1:　　　パイパン>","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"underb1","traits":[],"initialLevel":1,"maxLevel":99,"name":"サバイバル","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":7,"characterName":"","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"items1","traits":[],"initialLevel":1,"maxLevel":99,"name":"素手","nickname":"<<<携帯媒体なし","note":"<shotWay:1>\n<shotCount:40>\n<shotSpeed:0.075>\n<shotInterval:20>\n<shotType:2>\n<shotIndex:0>","profile":"魔法媒体が選択されていない状態です"},
+{"id":5,"battlerName":"","characterIndex":7,"characterName":"","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"items1","traits":[],"initialLevel":1,"maxLevel":99,"name":"葉っぱ","nickname":"　　　<<<携帯媒体","note":"<shotWay:2>\n<shotSpace:0.6>\n<shotCount:60>\n<shotSpeed:0.1>\n<shotInterval:15>\n<shotType:1>\n<shotIndex:0>","profile":"その辺に生えている葉っぱ"},
+{"id":6,"battlerName":"","characterIndex":7,"characterName":"","classId":3,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"items1","traits":[],"initialLevel":1,"maxLevel":99,"name":"葉っぱ","nickname":"","note":"<shotWay:2>\n<shotSpace:0.6>\n<shotCount:60>\n<shotSpeed:0.1>\n<shotInterval:15>\n<shotType:1>\n<shotIndex:0>","profile":"その辺に生えている葉っぱ"}
+]
